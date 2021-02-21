@@ -11,7 +11,7 @@ This is my personal blank source code for CTRPF.
 
 Once `DevkitPro` is installed run these commands in the command prompt: `pacman -Syuw 3ds-dev` and `pacman -Syuw 3ds-portlibs`.
 
-After everything is setup and installed properly, download the source code and run the `build.bat` to compile the 3gx plugin.
+After everything is setup and installed properly, download the `libctrpf.zip`. Find the `devkitPro` folder (usually in `C:\devKitPro`), make a folder called `libctrpf` in it and place the zip's content into it. Then download the source code of the blank CTRPF and run the `build.bat` to compile the 3gx plugin.
 
 ## Credits
 
