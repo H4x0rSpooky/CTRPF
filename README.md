@@ -8,9 +8,10 @@ This is my personal blank source code for CTRPF.
 
 * `Install Python` - [Download](https://www.python.org/downloads/)
 * `Install DevkitPro` - [Download](https://github.com/devkitPro/installer/releases)
+
 Once DevkitPro is installed run these commands in the Command Prompt: `pacman -Syuw 3ds-dev` and `pacman -Syuw 3ds-portlibs`
 
-After everything is setup and installed properly, download the Source Code and run the `build.bat` to compile the 3gx Plugin.
+After everything is setup and installed properly, download the source code and run the `build.bat` to compile the 3gx Plugin.
 
 ## Credits
 
