@@ -9,7 +9,9 @@ This is my personal blank source code for CTRPF.
 * `Install Python` - [Download](https://www.python.org/downloads/)
 * `Install DevkitPro` - [Download](https://github.com/devkitPro/installer/releases)
 
-Once `DevkitPro` is installed run these commands in the command prompt: `pacman -Syuw 3ds-dev` and `pacman -Syuw 3ds-portlibs`.
+Once `DevkitPro` is installed run these commands in the command prompt:
+* `pacman -Syuw 3ds-dev`
+* `pacman -Syuw 3ds-portlibs`
 
 After everything is setup and installed properly, download the `libctrpf.zip`. Find the `devkitPro` folder (usually in `C:\devKitPro`), make a folder called `libctrpf` in it and place the zip's content into it. Then download the source code of the blank CTRPF and run the `build.bat` to compile the 3gx plugin. You are now free to modify the `cheats.cpp` and `main.cpp` as you like.
 
