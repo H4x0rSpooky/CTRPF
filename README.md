@@ -1,5 +1,5 @@
 ## Description
-**Blank - CTRPluginFramework**
+**Blank CTRPluginFramework Source**
 
 This is my personal blank source code for CTRPF.
 
@@ -15,5 +15,5 @@ After everything is setup and installed properly, download the source code and r
 
 ## Credits
 
-* Guide and Source - [H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
+* Guide and Source - [@H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
 * Creator of CTRPF - [@Nanquitas](https://github.com/Nanquitas)
