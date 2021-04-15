@@ -6,8 +6,8 @@ This is a guide for CTRPF creations.
 ## Installation
 > You need a PC with 64-Bit Support!
 
-* `Install Python` - [Download](https://www.python.org/downloads/)
-* `Install DevkitPro` - [Download](https://github.com/devkitPro/installer/releases)
+`Install Python` - [Download](https://www.python.org/downloads/)
+`Install DevkitPro` - [Download](https://github.com/devkitPro/installer/releases)
 
 Once `DevkitPro` is installed run these commands in the command prompt:
 * `pacman -Syuw 3ds-dev`
