@@ -17,5 +17,5 @@ After everything is setup and installed properly, download the `libctrpf.zip`. F
 
 ## Credits
 
-* Guide and Source - [@H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
-* Creator of CTRPF - [@Nanquitas](https://github.com/Nanquitas)
+* Written Guide - [@H4x0rSpooky](https://www.youtube.com/channel/UC-SFdCwwq3H1wJNKCsKMGPw)
+* CTRPF Creator - [@Nanquitas](https://github.com/Nanquitas)
