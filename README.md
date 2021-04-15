@@ -14,7 +14,7 @@ Once `DevkitPro` is installed run these commands in the command prompt:
 * `pacman -Syuw 3ds-dev`
 * `pacman -Syuw 3ds-portlibs`
 
-After everything is setup and installed properly, download the `libctrpf.zip`. Locate the `devkitPro` folder (usually in `C:\devKitPro`), make a folder called `libctrpf` in it and place the zip's content into it. Then download the [source code of the blank CTRPF](https://github.com/mariohackandglitch/CTRPluginFramework-BlankTemplate) and run the `Makefile` to compile the 3gx plugin. You are now free to modify the `cheats.cpp` and `main.cpp` as you like. If you have any questions regarding code and other CTRPF related questions, feel free to join [Nanquitas' server](https://discord.gg/z4ZMh27).
+After everything is setup and installed properly, download the `libctrpf.zip`. Locate the `devkitPro` folder (usually in `C:\devKitPro`), make a folder called `libctrpf` in it and place the zip's content into it. Then download the [source code of the blank CTRPF](https://github.com/mariohackandglitch/CTRPluginFramework-BlankTemplate) and run the `Makefile` to compile the 3gx plugin. You are now free to modify the `cheats.cpp` and `main.cpp` as you like. If you have any questions regarding code and other CTRPF related questions, feel free to join [Nanquitas' Discord Server](https://discord.gg/z4ZMh27).
 
 ## Credits
 
