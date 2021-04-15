@@ -1,7 +1,7 @@
 ## Description
-**Blank CTRPluginFramework Source**
+**CTRPluginFramework Guide**
 
-This is my personal blank source code for CTRPF.
+This is a guide for CTRPF creations.
 
 ## Installation
 > You need a PC with 64-Bit Support!
